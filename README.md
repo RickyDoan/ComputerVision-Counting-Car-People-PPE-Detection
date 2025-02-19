@@ -13,7 +13,7 @@
 Implementation Details
 
 ### 1. Car Counter
-
+![Uploading reccomend ecommerce products.gif…](https://github.com/RickyDoan/ComputerVision-Counting-Car-People-PPE-Detection/blob/main/Car%20Counter/counting_car.gif)
 - Concept :Vehicle detection and tracking is crucial in traffic management and smart surveillance systems. This project leverages deep learning-based object detection to track and count vehicles moving in a predefined region of interest.
 
 - Preprocessing: The input video frame is read and preprocessed for better detection accuracy.
@@ -25,7 +25,7 @@ Implementation Details
 - Output Processing: The count and tracking results are overlaid on the video output.
 
 ### 2. People Counter
-
+![Uploading reccomend ecommerce products.gif…](https://github.com/RickyDoan/MMLs-NLP-Recommend-E-commerce-Products/blob/main/reccomend%20ecommerce%20products.gif)
 - Concept : People counting is widely used in crowd monitoring, retail analytics, and security surveillance. This project utilizes deep learning-based object detection models to track individuals in a scene.
 
 - Frame Processing: Video frames are loaded and processed to improve detection.
@@ -37,7 +37,7 @@ Implementation Details
 - Counting Logic: Individuals are counted when they pass a certain boundary or threshold.
 
 ### 3. PPE Detection
-
+![Uploading reccomend ecommerce products.gif…](https://github.com/RickyDoan/MMLs-NLP-Recommend-E-commerce-Products/blob/main/reccomend%20ecommerce%20products.gif)
 - Concept : In industrial and construction environments, ensuring safety compliance through PPE detection is essential. This project employs deep learning models to recognize safety gear, such as helmets and reflective vests.
 
 - Dataset Preparation: Images containing people with and without PPE are used to train the model.
