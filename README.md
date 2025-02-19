@@ -16,8 +16,6 @@ Implementation Details
 
 - Concept :Vehicle detection and tracking is crucial in traffic management and smart surveillance systems. This project leverages deep learning-based object detection to track and count vehicles moving in a predefined region of interest.
 
-- How It Works
-
 - Preprocessing: The input video frame is read and preprocessed for better detection accuracy.
 
 - Object Detection: A deep learning model (e.g., YOLO, SSD, or MobileNet) is used to detect vehicles.
@@ -30,8 +28,6 @@ Implementation Details
 
 - Concept : People counting is widely used in crowd monitoring, retail analytics, and security surveillance. This project utilizes deep learning-based object detection models to track individuals in a scene.
 
-- How It Works
-
 - Frame Processing: Video frames are loaded and processed to improve detection.
 
 - Detection Model: A pre-trained deep learning model (e.g., YOLO, Faster R-CNN) is used to detect people in each frame.
@@ -43,8 +39,6 @@ Implementation Details
 ### 3. PPE Detection
 
 - Concept : In industrial and construction environments, ensuring safety compliance through PPE detection is essential. This project employs deep learning models to recognize safety gear, such as helmets and reflective vests.
-
-- How It Works
 
 - Dataset Preparation: Images containing people with and without PPE are used to train the model.
 
