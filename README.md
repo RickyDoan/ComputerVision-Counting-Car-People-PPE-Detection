@@ -13,7 +13,7 @@
 Implementation Details
 
 ### 1. Car Counter
-![Uploading reccomend ecommerce products.gif…](https://github.com/RickyDoan/ComputerVision-Counting-Car-People-PPE-Detection/blob/main/Car%20Counter/counting_car.gif)
+![](https://github.com/RickyDoan/ComputerVision-Counting-Car-People-PPE-Detection/blob/main/Car%20Counter/counting_car.gif)
 - Concept :Vehicle detection and tracking is crucial in traffic management and smart surveillance systems. This project leverages deep learning-based object detection to track and count vehicles moving in a predefined region of interest.
 
 - Preprocessing: The input video frame is read and preprocessed for better detection accuracy.
