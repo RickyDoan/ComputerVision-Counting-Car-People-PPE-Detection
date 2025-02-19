@@ -11,6 +11,15 @@ cap = cv2.VideoCapture("../2 - Running Yolo with Webcam/videos/ppe-2-1.mp4") # D
 
 model = YOLO("model/ppe.pt")
 
+# Define output video parameters
+frame_width = int(cap.get(3))  # Get video width
+frame_height = int(cap.get(4))  # Get video height
+fps = int(cap.get(cv2.CAP_PROP_FPS))  # Get frames per second
+
+# Define video writer (Codec: XVID or MP4V for .mp4 output)
+fourcc = cv2.VideoWriter_fourcc(*'mp4v')  # Change to 'mp4v' if using .mp4
+out = cv2.VideoWriter('output.mp4', fourcc, fps, (frame_width, frame_height))
+
 # classNames = ["boots", "gloves", "helmet", "human", "vest"]
 classNames = ['Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone',
               'Safety Vest', 'machinery', 'vehicle']
@@ -55,9 +64,11 @@ while True:
     if not success:
         print("Ignoring empty camera frame or reconnecting your camera.")
         continue
-
+      
+    # Write frame to output video
+    out.write(image)
+  
     cv2.imshow("Image", image)
-
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 cap.release()
