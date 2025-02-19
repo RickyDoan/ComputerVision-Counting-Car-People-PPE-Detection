@@ -37,7 +37,7 @@ Implementation Details
 - Counting Logic: Individuals are counted when they pass a certain boundary or threshold.
 
 ### 3. PPE Detection
-![Uploading reccomend ecommerce products.gif…](https://github.com/RickyDoan/MMLs-NLP-Recommend-E-commerce-Products/blob/main/reccomend%20ecommerce%20products.gif)
+![](https://github.com/RickyDoan/ComputerVision-Counting-Car-People-PPE-Detection/blob/main/PPE%20detection/ppe_detection.gif)
 - Concept : In industrial and construction environments, ensuring safety compliance through PPE detection is essential. This project employs deep learning models to recognize safety gear, such as helmets and reflective vests.
 
 - Dataset Preparation: Images containing people with and without PPE are used to train the model.
