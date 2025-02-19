@@ -14,9 +14,7 @@ Implementation Details
 
 ### 1. Car Counter
 
-- Concept
-
-Vehicle detection and tracking is crucial in traffic management and smart surveillance systems. This project leverages deep learning-based object detection to track and count vehicles moving in a predefined region of interest.
+- Concept :Vehicle detection and tracking is crucial in traffic management and smart surveillance systems. This project leverages deep learning-based object detection to track and count vehicles moving in a predefined region of interest.
 
 - How It Works
 
@@ -30,9 +28,7 @@ Vehicle detection and tracking is crucial in traffic management and smart survei
 
 ### 2. People Counter
 
--Concept
-
-- People counting is widely used in crowd monitoring, retail analytics, and security surveillance. This project utilizes deep learning-based object detection models to track individuals in a scene.
+- Concept : People counting is widely used in crowd monitoring, retail analytics, and security surveillance. This project utilizes deep learning-based object detection models to track individuals in a scene.
 
 - How It Works
 
@@ -46,9 +42,7 @@ Vehicle detection and tracking is crucial in traffic management and smart survei
 
 ### 3. PPE Detection
 
-- Concept
-
-- In industrial and construction environments, ensuring safety compliance through PPE detection is essential. This project employs deep learning models to recognize safety gear, such as helmets and reflective vests.
+- Concept : In industrial and construction environments, ensuring safety compliance through PPE detection is essential. This project employs deep learning models to recognize safety gear, such as helmets and reflective vests.
 
 - How It Works
 
