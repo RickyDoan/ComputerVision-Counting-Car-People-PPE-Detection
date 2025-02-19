@@ -25,7 +25,7 @@ Implementation Details
 - Output Processing: The count and tracking results are overlaid on the video output.
 
 ### 2. People Counter
-![](https://github.com/RickyDoan/ComputerVision-Counting-Car-People-PPE-Detection/blob/main/Car%20Counter/counting_car.gif)
+![](https://github.com/RickyDoan/ComputerVision-Counting-Car-People-PPE-Detection/blob/main/People%20counter/pp_counting.gif)
 - Concept : People counting is widely used in crowd monitoring, retail analytics, and security surveillance. This project utilizes deep learning-based object detection models to track individuals in a scene.
 
 - Frame Processing: Video frames are loaded and processed to improve detection.
