@@ -38,7 +38,7 @@ Implementation Details
 
 ### 3. PPE Detection
 ![](https://github.com/RickyDoan/ComputerVision-Counting-Car-People-PPE-Detection/blob/main/PPE%20detection/ppe_detection.gif)
-🚀 Ensuring Workplace Safety with AI-Powered PPE Detection! 🦺👷‍♂️
+### 🚀 Ensuring Workplace Safety with AI-Powered PPE Detection! 🦺👷‍♂️
 * This computervision project which help to improve the safety workplace when staffs entering the construction spot.
 * I built a PPE Detection System using deep learning and computer vision to identify helmets, vests, and other protective gear in real time. If someone did not protect thereself by gears, it may detect then create the signal to warning.
 - 🔍 How It Works:
