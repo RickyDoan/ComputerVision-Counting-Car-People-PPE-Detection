@@ -41,11 +41,11 @@ Implementation Details
 🚀 Ensuring Workplace Safety with AI-Powered PPE Detection! 🦺👷‍♂️
 * This computervision project which help to improve the safety workplace when staffs entering the construction spot.
 * I built a PPE Detection System using deep learning and computer vision to identify helmets, vests, and other protective gear in real time. If someone did not protect thereself by gears, it may detect then create the signal to warning.
-🔍 How It Works:
-✅ I was using pre-trained Models (YOLO, TensorFlow) to recognize PPE on the Roboflow datasets.
-✅ Helped to automated Compliance Checks – Detects violations and flags missing safety gear.
-✅ Scalable for Real-World Use – This can be deployed on cameras in construction sites, factories, and warehouses.
-💡 What's the goal? --> It helps to reduce workplace risks, ensure safety, and drive compliance using AI-powered automation.
+- 🔍 How It Works:
+- ✅ I was using pre-trained Models (YOLO, TensorFlow) to recognize PPE on the Roboflow datasets.
+- ✅ Helped to automated Compliance Checks – Detects violations and flags missing safety gear.
+- ✅ Scalable for Real-World Use – This can be deployed on cameras in construction sites, factories, and warehouses.
+- 💡 What's the goal? --> It helps to reduce workplace risks, ensure safety, and drive compliance using AI-powered automation.
 
 * Conclusion
 
