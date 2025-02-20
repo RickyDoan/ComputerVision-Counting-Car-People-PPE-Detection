@@ -38,29 +38,14 @@ Implementation Details
 
 ### 3. PPE Detection
 ![](https://github.com/RickyDoan/ComputerVision-Counting-Car-People-PPE-Detection/blob/main/PPE%20detection/ppe_detection.gif)
-- Concept : In industrial and construction environments, ensuring safety compliance through PPE detection is essential. This project employs deep learning models to recognize safety gear, such as helmets and reflective vests.
-
-- Dataset Preparation: Images containing people with and without PPE are used to train the model.
-
-- Object Detection: A model trained on PPE-specific datasets (e.g., YOLO, TensorFlow Object Detection API) identifies individuals and classifies them based on the presence of safety gear.
-
-- Violation Detection: If an individual is detected without proper PPE, the system can raise an alert or flag the violation.
-
-* Key Takeaways
-
-- Object detection models play a vital role in real-world applications such as traffic monitoring, security, and workplace safety.
-
-- Implementing these systems requires proper dataset preparation, model selection, and post-processing techniques.
-
-- Optimization techniques such as reducing false positives, improving tracking accuracy, and real-time processing are essential for deployment.
-
-- Future Enhancements
-
-- Enhancing detection accuracy with fine-tuned models and larger datasets.
-
-- Implementing real-time alert systems for safety violations.
-
-- Deploying these models in edge devices for low-latency processing.
+🚀 Ensuring Workplace Safety with AI-Powered PPE Detection! 🦺👷‍♂️
+* This computervision project which help to improve the safety workplace when staffs entering the construction spot.
+* I built a PPE Detection System using deep learning and computer vision to identify helmets, vests, and other protective gear in real time. If someone did not protect thereself by gears, it may detect then create the signal to warning.
+🔍 How It Works:
+✅ I was using pre-trained Models (YOLO, TensorFlow) to recognize PPE on the Roboflow datasets.
+✅ Helped to automated Compliance Checks – Detects violations and flags missing safety gear.
+✅ Scalable for Real-World Use – This can be deployed on cameras in construction sites, factories, and warehouses.
+💡 What's the goal? --> It helps to reduce workplace risks, ensure safety, and drive compliance using AI-powered automation.
 
 * Conclusion
 
